@@ -1,0 +1,8 @@
+
+Background music
+Shooting sound effects
+Creating a pause menu
+Using the arrow keys to control the character
+Explosion animation
+Additional projectile collision points
+
