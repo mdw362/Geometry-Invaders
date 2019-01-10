@@ -8,5 +8,4 @@ It was written in Java using Light Weight Java Game Library (LWJGL) and Javazoom
 
 To run simply double-click Geometryinvaders.app.
 
-Note: Slight bug in closing one of the threads. Users may have to "force quit" the application
-after finishing playing.
+Note: User may experience issues with background music
