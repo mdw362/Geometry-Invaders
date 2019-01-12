@@ -12,4 +12,7 @@ Or run the following:
 
     java -jar GeometryInvaders.jar
 
+For a demonstration, download and watch the demonstration.mov file which is about 45 
+seconds long
+
 Note: Bug with file path; background music will not play. Too lazy to fix right now.
