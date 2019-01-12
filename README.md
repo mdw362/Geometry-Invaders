@@ -6,6 +6,10 @@ and forcing the user to reload after firing.
 
 It was written in Java using Light Weight Java Game Library (LWJGL) and Javazoom.
 
-To run simply double-click Geometryinvaders.app.
+To run simply double-click GeometryInvaders.app
 
-Note: User may experience issues with background music
+Or run the following:
+
+    java -jar GeometryInvaders.jar
+
+Note: Bug with file path; background music will not play. Too lazy to fix right now.
