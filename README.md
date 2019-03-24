@@ -12,6 +12,6 @@ Or run the following:
 
     java -jar GeometryInvaders.jar
 
-![](https://github.com/mdw362/Geometry-Invaders/gi1.png)
+![](https://github.com/mdw362/Geometry-Invaders/blob/master/gi1.png)
 
-![](https://github.com/mdw362/Geometry-Invaders/gi2.png)
+![](https://github.com/mdw362/Geometry-Invaders/blob/master/gi2.png)
